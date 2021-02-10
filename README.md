@@ -9,5 +9,5 @@ The repository includes the following files:
 [<img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" alt="Conda" width="80"/>](https://docs.conda.io/en/latest/) is required for creating the development environment (it is suggested to install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)).
 
 From terminal navigate to the repository base directory.\
-Use the command `conda env create -f CC-DSpath39.yml` in your terminal to create the environment named `CC-DSpath39.yml`.\
+Use the command `conda env create -f CC-DSpath39.yml` in your terminal to create the environment named `CC-DSpath39`.\
 Activate the environment with `conda activate CC-DSpath39` and then run `jupyter notebook`.
